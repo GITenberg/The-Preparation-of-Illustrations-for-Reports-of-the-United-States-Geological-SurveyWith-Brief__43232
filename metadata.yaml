@@ -1,0 +1,34 @@
+_repo: The-Preparation-of-Illustrations-for-Reports-of-the-United-States-Geological-SurveyWith-Brief__43232
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43232-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ridgway, John L.
+    aliases:
+    - Ridgway, John L. (John Livesy)
+    - Ridgway, John L. (John Livzey)
+    - Ridgway, John L. (John Livsey)
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '42084'
+    url: http://www.gutenberg.org/2009/agents/42084
+description: ''
+gutenberg_issued: '2013-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43232'
+  lccn: gs20000419
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illustration of books'
+- !lcc 'QE'
+title: 'The Preparation of Illustrations for Reports of the United States Geological
+  Survey
+
+  With Brief Descriptions of Processes of Reproduction'
+url: http://www.gutenberg.org/ebooks/43232
